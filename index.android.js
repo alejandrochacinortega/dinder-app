@@ -9,7 +9,7 @@ import {
   AppRegistry,
 } from 'react-native';
 
-import AppContainer from './app/AppContainer';
+import AppContainer from './src/AppContainer';
 
 export default class dinder extends Component {
   render() {
